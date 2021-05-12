@@ -1,0 +1,17 @@
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\Business.deps.json
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\Business.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\ref\Business.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\Business.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\DataAccess.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\DataAccess.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\Business\bin\Debug\net5.0\Entities.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\ref\Business.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Business\obj\Debug\net5.0\Business.pdb

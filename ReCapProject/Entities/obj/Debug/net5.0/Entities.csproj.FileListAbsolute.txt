@@ -1,0 +1,12 @@
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb

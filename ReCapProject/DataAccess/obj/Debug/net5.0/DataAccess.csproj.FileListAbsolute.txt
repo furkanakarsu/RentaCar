@@ -1,0 +1,15 @@
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\Entities.dll
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Masaüstü\Rent a Car\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
